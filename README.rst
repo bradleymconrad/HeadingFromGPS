@@ -12,9 +12,7 @@ Installation
 
 To clone the *HeadingFromGPS* repository, see GitHub's `instructions <https://help.github.com/en/articles/cloning-a-repository>`_.
 
-.. note::
-
-  When booting the software, the landing screen may disappear and it may seem as though booting has stalled. Be patient at this point; background processes are running and *HeadingFromGPS* will initialize shortly after.
+  Note: When booting the software, the landing screen may disappear and it may seem as though booting has stalled. Be patient at this point; background processes are running and *HeadingFromGPS* will initialize shortly after.
 
 Requirements
 ============
@@ -33,15 +31,11 @@ Consider contributing in the following ways:
 
   2. Want to introduce functionality helpful to your work/field? Fork the repository, make it work for you, and issue a pull request. Credit will always be given!
 
-.. _AnchorToLicense:
-
 *******
 License
 *******
 
 *HeadingFromGPS* is licensed under the **MIT** license:
-
-  .. include:: LICENSE.txt
 
 **************************
 Author Contact Information
@@ -59,16 +53,16 @@ Version History
 Acknowledgements
 ****************
 
-*HeadingFromGPS* was developed at Carleton University's `Energy and Emissions Research Laboratory <http://www.carleton.ca/eerl>`_ as part of the `Sky-LOSA Project <https://www.flarenet.ca/research/sky-losa-measurement-of-black-carbon-soot-emissions-from-gas-flaring/>`_with support from `NSERC FlareNet <http://www.flarenet.ca>`_.
+*HeadingFromGPS* was developed at Carleton University's `Energy and Emissions Research Laboratory <http://www.carleton.ca/eerl>`_ as part of the `Sky-LOSA Project <http://www.flarenet.ca/research/sky-losa-measurement-of-black-carbon-soot-emissions-from-gas-flaring>`_ with support from `NSERC FlareNet <http://www.flarenet.ca>`_.
 
 .. image:: images/Logo_EERL.png
-   :scale: 40 %
+   :scale: 20 %
    :align: center
    :target: http://www.carleton.ca/eerl
 
 |
 
 .. image:: images/Logo_FlareNet.png
-   :scale: 40 %
+   :scale: 20 %
    :align: center
    :target: http://www.flarenet.ca
