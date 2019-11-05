@@ -47,7 +47,7 @@ You can contact Bradley (Brad) Conrad with issues and/or recommendations at brad
 Version History
 ***************
 
-**Version 1.0**: Version/release at time of first posting to GitHub.
+**Version 1.0**: First posted version.
 
 ****************
 Acknowledgements
