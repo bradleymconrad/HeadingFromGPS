@@ -56,13 +56,13 @@ Acknowledgements
 *HeadingFromGPS* was developed at Carleton University's `Energy and Emissions Research Laboratory <http://www.carleton.ca/eerl>`_ as part of the `Sky-LOSA Project <http://www.flarenet.ca/research/sky-losa-measurement-of-black-carbon-soot-emissions-from-gas-flaring>`_ with support from `NSERC FlareNet <http://www.flarenet.ca>`_.
 
 .. image:: images/Logo_EERL.png
-   :scale: 20 %
+   :scale: 5 %
    :align: center
    :target: http://www.carleton.ca/eerl
 
 |
 
 .. image:: images/Logo_FlareNet.png
-   :scale: 20 %
+   :scale: 5 %
    :align: center
    :target: http://www.flarenet.ca
